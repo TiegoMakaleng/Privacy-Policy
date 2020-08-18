@@ -25,7 +25,7 @@ the time and date of your use of the service, and other statistics.
 
 ### Cookies
 
-Cookie are files with a small amount of data sent from a website that you visit and stored on your device's internal storage. 
+Cookies are files with a small amount of data sent from a website that you visit and stored on your device's internal storage. 
 
 This service does not use these "cookies" explicitly. However, the App may use third party code and libraries that use "cookies" to collect information and improve their services.
 You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. 
